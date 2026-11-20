@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clic</string>
+    <string name="accessibility_label">Clic – tocar al destellar</string>
+    <string name="accessibility_description">Permite que Clic toque la pantalla automáticamente cuando detecta un destello.</string>
+</resources>
